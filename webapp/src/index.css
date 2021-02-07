@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  font-family: 'Roboto';
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#here {
+  height: 100%;
+  width: 100%;
+}

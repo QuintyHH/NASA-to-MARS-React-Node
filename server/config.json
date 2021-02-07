@@ -1,0 +1,11 @@
+{
+  "BASE_URL": "35.177.84.34",
+  "PORT": 54210,
+  "RELATIVE_PATH": "../webapp/build",
+  "S3" : {
+    "ID": "",
+    "SECRET":"",
+    "BUCKET_NAME": "NASA",
+    "FILE_NAME": "movements"
+  }
+}

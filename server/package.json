@@ -1,0 +1,16 @@
+{
+  "name": "nasa-server",
+  "description": "NASA-server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.836.0",
+    "express": "^4.14.0",
+    "fast-csv": "^4.3.6",
+    "multer": "^1.4.2",
+    "path": "^0.12.7"
+  }
+}
